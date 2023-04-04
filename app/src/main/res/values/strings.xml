@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_0">Repository</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="user_image_profile">User Image Profile</string>
+    <string name="search">Search</string>
+
+    <string name="enter_username">Enter username here</string>
+    <string name="no_user">No User Found</string>
+    <string name="no_repo">No Repository Found</string>
+    <string name="no_followers">No Followers Found</string>
+    <string name="no_following">No Following Found</string>
+    <string name="switch_mode">Switch Dark Mode</string>
+    <string name="favorite">Favorite</string>
+
+</resources>
